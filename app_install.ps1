@@ -1,0 +1,1 @@
+winget install Valve.Steam AgileBits.1Password  Microsoft.PowerToys  wechat idm spotify vscode Git.Git startallback starship todesk Telegram.TelegramDesktop
