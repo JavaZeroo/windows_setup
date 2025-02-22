@@ -1,1 +1,1 @@
-winget install Valve.Steam AgileBits.1Password  Microsoft.PowerToys  wechat Tonec.InternetDownloadManager vscode Git.Git StartIsBack.StartAllBack starship Youqu.ToDesk Telegram.TelegramDesktop Microsoft.PowerShell
+winget install Valve.Steam  Microsoft.PowerToys  wechat Tonec.InternetDownloadManager vscode Git.Git StartIsBack.StartAllBack starship Youqu.ToDesk Telegram.TelegramDesktop Microsoft.PowerShell
